@@ -1,6 +1,6 @@
 # TRACE Project
 
-![TRACE Logo](../images/trace_logo.png)
+![TRACE Logo](./images/trace_logo.png)
 
 ## Project Information
 
